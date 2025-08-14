@@ -34,13 +34,19 @@
   <img alt="Profile Image" height="180px" src="study.gif" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 
   <!-- Links à direita da imagem -->
+
+  <img align="center" alt="Carol-GIF" height="120" width="130" src="https://i.pinimg.com/originals/1a/56/ea/1a56eaaaf78869d7c6e0e620b2b98394.gif">
+
   <div style="text-align: left; font-family: 'Arial', sans-serif;">
-    <h3 style="color: #333; margin-bottom: 20px;">🌐 Contato!</h3> 
+    <h3 style="color: #333; margin-bottom: 20px;">🌙 Contato!</h3> 
     <a href="https://github.com/maribrbsv" target="_blank" style="display: block; margin: 8px 0; font-size: 18px; color: #333; text-decoration: none; font-weight: bold;">
         <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=EEEEEE" alt="GitHub">
     </a>  
     <a href="https://instagram.com/mariana.borba.s" target="_blank" style="display: block; margin: 8px 0; font-size: 18px; color: #E4405F; text-decoration: none; font-weight: bold;">
         <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=EEEEEE" alt="Instagram">
+    </a>  
+    <a href="https://github.com/maribrbsv" target="_blank" style="display: block; margin: 8px 0; font-size: 18px; color: #333; text-decoration: none; font-weight: bold;">
+        <img src="https://img.shields.io/badge/Spotify-000?style=for-the-badge&logo=spotify&logoColor=EEEEEE" alt="GitHub">
     </a>  
   </div>
 </div>
