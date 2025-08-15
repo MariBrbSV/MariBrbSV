@@ -28,15 +28,10 @@
 #
 
   <br>
-  
+
+
 <div style="display: flex; align-items: center; justify-content: center; height: 100vh; gap: 40px;">
-  <!-- Imagem à esquerda -->
-  <img alt="Profile Image" height="180px" src="study.gif" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-
-  <!-- Links à direita da imagem -->
-
   <img align="center" alt="Carol-GIF" height="120" width="130" src="https://i.pinimg.com/originals/1a/56/ea/1a56eaaaf78869d7c6e0e620b2b98394.gif">
-
   <div style="text-align: left; font-family: 'Arial', sans-serif;">
     <h3 style="color: #333; margin-bottom: 20px;">🌙 Contato!</h3> 
     <a href="https://github.com/maribrbsv" target="_blank" style="display: block; margin: 8px 0; font-size: 18px; color: #333; text-decoration: none; font-weight: bold;">
@@ -51,10 +46,6 @@
   </div>
 </div>
 
-
-
-
-<br>  <br>
 
 #
 
@@ -78,7 +69,11 @@
 
 </div>
 
+<div> 
+    <img height="180px" src="study.gif" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
 
+<img src="https://i.pinimg.com/originals/dc/d1/fb/dcd1fb0f995baa4d2a4a9be54a590856.gif" alt="city lights🌙" style="width: 1200px;"/>
 
 #
 
