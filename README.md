@@ -45,7 +45,7 @@
     <a href="https://instagram.com/mariana.borba.s" target="_blank" style="display: block; margin: 8px 0; font-size: 18px; color: #E4405F; text-decoration: none; font-weight: bold;">
         <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=EEEEEE" alt="Instagram">
     </a>  
-    <a href="https://github.com/maribrbsv" target="_blank" style="display: block; margin: 8px 0; font-size: 18px; color: #333; text-decoration: none; font-weight: bold;">
+    <a href="https://open.spotify.com/user/5wssiyz9r0g7zvqpqavz1p9je?si=36f5ee1fddcf42cb" target="_blank" style="display: block; margin: 8px 0; font-size: 18px; color: #333; text-decoration: none; font-weight: bold;">
         <img src="https://img.shields.io/badge/Spotify-000?style=for-the-badge&logo=spotify&logoColor=EEEEEE" alt="GitHub">
     </a>  
   </div>
